@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\rskal\source\repos\project1\project1\source.cpp(22): warning C4018: '<': signed/unsigned mismatch
+c:\users\rskal\source\repos\project1\project1\source.cpp(63): warning C4018: '<': signed/unsigned mismatch
+c:\users\rskal\source\repos\project1\project1\source.cpp(113): warning C4018: '<': signed/unsigned mismatch
+c:\users\rskal\source\repos\project1\project1\source.cpp(162): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Project1.vcxproj -> C:\Users\rskal\source\repos\Project1\Debug\Project1.exe
